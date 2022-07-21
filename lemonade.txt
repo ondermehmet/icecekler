@@ -7,3 +7,5 @@ nane
 sürahi
 bardak
 Glikoz Şurubu
+
+bu bir limonata tarifidir.
